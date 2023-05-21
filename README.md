@@ -1,1 +1,2 @@
 # Improving-NCR
+The goal of this issue is to enhance the neural coreference resolution capabilities in AI tools, improving model comprehension and accuracy in natural language processing (NLP) tasks. Neural coreference resolution involves identifying when words or phrases in a text refer to the same entity or concept. By addressing this issue, we aim to improve the performance of AI tools in understanding textual context and resolving ambiguities.
